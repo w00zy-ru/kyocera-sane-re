@@ -1,5 +1,7 @@
 # kyocera-sane-re
-Оригинальный пакет kyocera-sane-1.1-0228.x86_64.rpm
+Оригинальный пакет находится на сайте Куосеры: kyocera-sane-1.1-0228.x86_64.rpm --- 
+Он нужен для пересборки, качается самостоятельно.
+
 Kyocera SANE package for Kyocera (repack original) - Repack for distribution Alt Linux P10
  * Kyocera MFP supported device:
     * FS-1020 MFP usb 0x0482 0x0495
